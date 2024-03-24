@@ -1,0 +1,5 @@
+p\lolamechat\Command\LolameCommand.class
+p\lolamechat\Format\MessageUtils.class
+p\lolamechat\Format\DefaultFontInfo.class
+p\lolamechat\Chat\ChatHandler.class
+p\lolamechat\LolameChat.class

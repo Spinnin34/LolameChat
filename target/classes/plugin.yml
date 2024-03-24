@@ -1,0 +1,7 @@
+name: LolameChat
+version: '1.0'
+main: p.lolamechat.LolameChat
+author: Spinnin34
+commands:
+  lolamechat:
+    usage: /lolamechat

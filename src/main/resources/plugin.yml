@@ -1,0 +1,7 @@
+name: LolameChat
+version: '${project.version}'
+main: p.lolamechat.LolameChat
+author: Spinnin34
+commands:
+  lolamechat:
+    usage: /lolamechat
